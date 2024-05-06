@@ -689,17 +689,17 @@ color: #7B61FF;
 }
 
 .footer_form {
-    width: 300px; /* Ширина формы */
-    margin-right: auto; /* Помещаем форму в левый край контейнера */
+    width: 300px; 
+    margin-right: auto; 
 }
 
 .contacts {
   font-size: 20px;
   font-weight: normal;
-    margin-left: auto; /* Помещаем контакты в правый край контейнера */
+    margin-left: auto; 
     text-align: right; 
     margin-right: 200px;
-    color: grey;/* Выравниваем текст контактов по правому краю */
+    color: grey;
 }
 
 #contacts {
